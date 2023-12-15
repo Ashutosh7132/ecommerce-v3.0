@@ -1,1 +1,1 @@
-# Full Stack: Angular and Spring Boot
+# Full Stack: Angular and Spring Boot Ecommerce Application
